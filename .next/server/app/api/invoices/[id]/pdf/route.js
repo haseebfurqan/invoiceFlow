@@ -1,0 +1,10 @@
+var R=require("../../../../../chunks/[turbopack]_runtime.js")("server/app/api/invoices/[id]/pdf/route.js")
+R.c("server/chunks/[externals]__12s2uxrv8n30f._.js")
+R.c("server/chunks/_1fx6swqidr0jn._.js")
+R.c("server/chunks/src_lib_calc_ts_1ig-ae-5tfj_m._.js")
+R.c("server/chunks/[root-of-the-server]__0o3x6qrm89mhc._.js")
+R.c("server/chunks/[root-of-the-server]__1r7kbfkiw2xmu._.js")
+R.c("server/chunks/[root-of-the-server]__1w-6vgb9z8zs4._.js")
+R.c("server/chunks/_next-internal_server_app_api_invoices_[id]_pdf_route_actions_1h1e9g55lgc5a.js")
+R.m(48980)
+module.exports=R.m(48980).exports

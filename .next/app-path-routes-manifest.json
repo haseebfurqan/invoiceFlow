@@ -1,0 +1,22 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/clients/[id]/route": "/api/clients/[id]",
+  "/api/clients/route": "/api/clients",
+  "/api/invoices/[id]/pdf/route": "/api/invoices/[id]/pdf",
+  "/api/invoices/[id]/route": "/api/invoices/[id]",
+  "/api/invoices/[id]/send/route": "/api/invoices/[id]/send",
+  "/api/invoices/route": "/api/invoices",
+  "/api/items/[id]/route": "/api/items/[id]",
+  "/api/items/route": "/api/items",
+  "/api/settings/route": "/api/settings",
+  "/clients/page": "/clients",
+  "/icon.svg/route": "/icon.svg",
+  "/invoices/[id]/page": "/invoices/[id]",
+  "/invoices/new/page": "/invoices/new",
+  "/items/page": "/items",
+  "/onboarding/page": "/onboarding",
+  "/page": "/",
+  "/rules/page": "/rules",
+  "/settings/page": "/settings"
+}
